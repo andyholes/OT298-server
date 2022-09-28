@@ -15,10 +15,11 @@
 
 ### Install
 ```
-git clone https://github.com/andyholes/OT298-server/tree/develop
+git clone -b develop https://github.com/andyholes/OT298-server
 ```
 
 ### Build
 ```
 mvn clean package
 ```
+0
