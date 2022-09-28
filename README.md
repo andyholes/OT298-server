@@ -22,4 +22,3 @@ git clone -b develop https://github.com/andyholes/OT298-server
 ```
 mvn clean package
 ```
-0
